@@ -8,7 +8,7 @@ Web Application Development
 (September 28, 2017)
 
 ## Student Name:  
-(Justyce Jackson)
+(Montavious Thompson)
 
 ## Project Description:
 (In this assignment we learned how to create a github account and connect both our cloud 9
@@ -23,6 +23,6 @@ this was crucial for us to learn because we will be using it for the future assi
 5. (Git commands, what they do and how they work.)
 
 ## View Project
-https://jsj15c.github.io/lesson3_versioncontrol/Lesson3_Highlights/
+
 
 
